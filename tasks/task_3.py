@@ -3,3 +3,6 @@ print("""Python is an
     high-level,
     general-purpose
 programming language.""")
+
+print("Python is an\n\tinterpreted,\n\thigh-level,"
+      "\n\tgeneral-purpose\nprogramming language.")
