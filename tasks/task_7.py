@@ -2,6 +2,6 @@ cost = 1000
 discount = 20
 quantity = 3
 
-total_cost = ...  # здесь Ваш код
+total_cost = cost * quantity
 
-print(...)  # допишите код
+print("Стоимость вашего заказа: ", total_cost - total_cost / 100 * discount)
